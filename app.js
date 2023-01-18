@@ -17,5 +17,5 @@ let x = setInterval(function stime(){
     if(D<0){
          clearInterval(x);
         window.location.href="intro.html"
-     }
+    }
 }, 0.1);
